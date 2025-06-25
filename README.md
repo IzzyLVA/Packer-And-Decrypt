@@ -1,4 +1,3 @@
-```markdown
 # 🗃️ Packer and Decrypt
 
 **Packer and Decrypt** is a lightweight, proof-of-concept encryption and execution toolkit built for educational purposes. It allows users to encrypt Python scripts into a binary format and then decrypt and execute them using a custom stub loader or a standalone decryption tool.
