@@ -117,6 +117,6 @@ packer-and-decrypt/
 ---
 
 ## 📚 License
-
+```
 MIT License — free to use, modify, and share with proper attribution.
 ```
